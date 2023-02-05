@@ -1,3 +1,5 @@
+//This algorithm is used to Give the maximum Sum in a Array with the most optimized way
+
 #include<iostream>
 using namespace std;
 
